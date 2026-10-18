@@ -1,2 +1,2 @@
-# exams
-Exam works
+# 42 Related notes
+For projects, exams, etc.
